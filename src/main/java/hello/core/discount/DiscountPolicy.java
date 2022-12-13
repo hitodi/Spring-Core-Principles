@@ -6,6 +6,6 @@ public interface DiscountPolicy {
     int discount(Member member, int price);
 
     /*
-    *  @retrun 할인 대상 금액
-    * */
+    *  @return 할인 대상 금액
+    */
 }
